@@ -73,25 +73,7 @@ supabase db push
 # Start development servers
 npm run dev
 ```
-
-### Local Development
-
-- Client: http://localhost:5173
-- API: http://localhost:3001/api
-
-## Project Structure
-
-```text
-cyra/
-├── client/          # React SPA (PWA)
-├── server/          # Express API + Groq integration
-├── supabase/        # Database migrations & RLS policies
-├── docs/            # Architecture & design documentation
-└── screenshots/     # Application screenshots
-```
-
 ## Demo Flow
-
 1. User Registration/Login
 2. Profile Setup & Onboarding
 3. Period & Symptom Logging
@@ -126,23 +108,6 @@ cyra/
 - Community Support Features
 - Doctor Dashboard
 
-## Screenshots
-
-### Login Screen
-_Add screenshot here_
-
-### Dashboard
-_Add screenshot here_
-
-### AI Sakhi
-_Add screenshot here_
-
-### Health Journey
-_Add screenshot here_
-
-### Reports
-_Add screenshot here_
-
 ## Impact
 
 Cyra empowers women to better understand their menstrual and hormonal health through structured tracking, AI-assisted guidance, and accessible educational resources. By promoting awareness and proactive health management, the platform encourages informed healthcare decisions and timely medical consultation.
@@ -159,11 +124,9 @@ Cyra is designed for educational and wellness support purposes only. It does not
 
 ### Team Members
 
-- Member 1
-- Member 2
-- Member 3
-- Member 4
+- Parina gandotra 
+- Aaruthra
+- hitisha
 
-## License
 
-Proprietary — All rights reserved.
+
